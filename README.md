@@ -4,7 +4,7 @@ This is a text file used for learning Git
 
 ## Heading 2
 
-Later modifcation done. 
+This is a modified line modified already in another branch
 
 More changing don e to the readme file. 
 
